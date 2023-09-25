@@ -1,7 +1,10 @@
 /******************************
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
-function isItLong()
+function isItLong(str) {
+  if(str.length > 20)  
+    return "Thats's a long string!"
+  }
 
 
 
