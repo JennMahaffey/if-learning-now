@@ -1,8 +1,7 @@
 /******************************
  * YOUR CODE GOES RIGHT HERE! *
  ******************************/
-//
-//strem
+function isItLong()
 
 
 
