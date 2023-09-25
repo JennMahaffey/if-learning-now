@@ -6,7 +6,11 @@ function isItLong(str) {
     return "Thats's a long string!"
   }
 
-
+function isItMedium(str){
+  if(str.length <= 20 && str.length >= 10){
+    return "That's a long string!"
+  }
+}
 
 
 /**********************************
