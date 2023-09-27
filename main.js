@@ -28,8 +28,16 @@ function howLongIsMyString(str) {
   }else if(str.length <= 10){
     return "That's a small string!"
   }
-
 }
+
+function instructorHeight(height) {
+  if(height === 'Kyle'){
+    return 70
+  }else if(height === 'Jason'){
+    return 73
+  }else {return "I don't know that instructor!"
+}
+    }
 
 /**********************************
  *      OUR CODE GOES BELOW.      *
